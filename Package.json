@@ -1,0 +1,30 @@
+{
+  "name": "yakama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "Archimatt",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.7.2",
+    "discord.js-commando": "^0.10.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fs": "0.0.1-security",
+    "install": "^0.11.0",
+    "npm": "^6.0.1",
+    "opusscript": "0.0.6",
+    "request": "^2.86.0",
+    "request-promise": "^4.2.2",
+    "simple-youtube-api": "^5.0.2",
+    "sqlite": "^2.9.2",
+    "tar": "^4.4.2",
+    "winston": "^2.4.2",
+    "ytdl-core": "^0.20.4"
+  }
+}
